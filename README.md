@@ -10,6 +10,8 @@ Prashanth Nair 1003639
 
 A deep learning project which focuses on detecting human emotion based on their facial features captured in videos by predicting the valence and arousal scores.
 
+![](https://i.imgur.com/rMup4ix.gif)
+
 ## Instructions to run demo UI:
 
 1. Clone directory
@@ -30,3 +32,14 @@ A deep learning project which focuses on detecting human emotion based on their 
 3. Change the paths in the Big_Project.ipynb and run all cells to train.
 
 4. Model weights will be saved in 'saved weights' and validations loss will be saved in 'validation_results'.
+
+
+## Credits
+
+- Datasets taken from https://ibug.doc.ic.ac.uk/resources/aff-wild2/
+- Implementation of Face Detection and Alignment using Multi-task Cascaded CNNs to https://github.com/TropComplique/mtcnn-pytorch
+
+
+
+
+
