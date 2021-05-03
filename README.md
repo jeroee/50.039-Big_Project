@@ -10,7 +10,7 @@ Prashanth Nair 1003639
 
 A deep learning project which focuses on detecting human emotion based on their facial features captured in videos by predicting the valence and arousal scores.
 
-Instructions to run demo UI:
+## Instructions to run demo UI:
 
 1. Clone directory
 
@@ -21,7 +21,7 @@ Instructions to run demo UI:
 4. Run python gui.py in terminal. A pyqt gui will pop up and prompt the user to insert full path of testing video. Click predict to view video frames. Hold 'k' to play the video and 
 
 
-Instructions to retrain model:
+## Instructions to retrain model:
 
 1. Clone directory
 
