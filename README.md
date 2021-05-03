@@ -19,8 +19,10 @@ A deep learning project which focuses on detecting human emotion based on their 
 2. Download dataset from google drive. https://drive.google.com/drive/folders/1GhNLW-MWJbOHdfFbRV_HwPCm3P4kL6zi?usp=sharing unzip the folder and replace it with 'data' folder in repository
 
 3. Copy path of any video from data>video>test_trim
+
+4. pip install pyqt
  
-4. Run python gui.py in terminal. A pyqt gui will pop up and prompt the user to insert full path of testing video. Click predict to view video frames. Hold 'k' to play the video and 
+5. Run python gui.py in terminal. A pyqt gui will pop up and prompt the user to insert full path of testing video. Click predict to view video frames. Hold 'k' to play the video and 
 
 
 ## Instructions to retrain model:
