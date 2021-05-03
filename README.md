@@ -25,7 +25,7 @@ A deep learning project which focuses on detecting human emotion based on their 
 5. Run python gui.py in terminal. A pyqt gui will pop up and prompt the user to insert full path of testing video. Click predict to view video frames. Hold 'k' to play the video and 
 
 
-## Instructions to retrain model:
+## Instructions to train model:
 
 1. Clone directory
 
